@@ -1,0 +1,7 @@
+INSTALACION
+
+1) Guardar la carpeta “FRONT_BACK_END” en un servidor local, puede ser xampp o wamp
+2) Crear manualmente o importar la bd del proyecto
+3) Configurar las credenciales de usuario para acceso de bd en el archivo conexion.php
+4) Acceder a la ruta local, en este ejemplo es: "PRUEBA_PRACTICA/FRONT_BACK_END/index.php"
+5) Usuario de login: daniel pass: daniel
